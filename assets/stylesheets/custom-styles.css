@@ -4,6 +4,7 @@
 
 .menu-panels {
 	height:150px;
+	background: none;
 }
 
 #copyright {
@@ -60,7 +61,7 @@ footer {
 }
 
 .text-background {
-	background: white;
+	
 	background: rgba(255,255,255,.7);
 	padding: 10px 10px;
 	border-radius: 5px;
@@ -81,6 +82,14 @@ a{
 
 }
 
+.panel-background{
+	background: rgba(255,255,255,.7);
+
+}
+
+.center{
+	text-align: center;
+}
 
 
 
