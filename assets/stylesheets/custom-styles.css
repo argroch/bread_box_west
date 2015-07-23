@@ -1,27 +1,30 @@
-<<<<<<< HEAD
-/*body {
-	background: url("file:///Users/Megan/Desktop/TTS/HTML_CSS/bread_box_west/assets/images/bakery.jpg")
-	fixed center no-repeat;
-}*/
-
 #copyright {
 	text-align: left;
+}
+
+h1 {
+	vertical-align: middle;
 }
 
 #btm_nav {
 	text-align: right;
 }
 
+.btn_links {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
 .front_pic {
 	width: 100%;
 	height: 100%
-=======
+}
+
 .contact {
 	text-align: center;
 	max-width: max;
-	
-
 }
+
 .header {
 	text-align: center;
 }
@@ -37,5 +40,5 @@
 	background: white;
 	background: rgba(255,255,255,.7);
 	padding: 10px 10px;
->>>>>>> 6b2e67d2616abd0d1735805d3320588c1451b31e
+	border-radius: 5px;
 }
