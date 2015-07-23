@@ -1,0 +1,22 @@
+.contact {
+	text-align: center;
+	max-width: max;
+	
+
+}
+.header {
+	text-align: center;
+}
+
+.contact-page {
+ background: url('../images/cookie2.jpg') no-repeat;
+ background-position: center center;
+ background-size: cover; 
+ background-attachment: fixed;
+}
+
+.text-background {
+	background: white;
+	background: rgba(255,255,255,.7);
+	padding: 10px 10px;
+}
