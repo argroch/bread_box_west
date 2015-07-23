@@ -1,3 +1,8 @@
+
+.panel-menu{
+	height: 200px;
+}
+
 #copyright {
 	text-align: left;
 }
@@ -31,6 +36,13 @@ h1 {
 
 .contact-page {
  background: url('../images/cookie2.jpg') no-repeat;
+ background-position: center center;
+ background-size: cover; 
+ background-attachment: fixed;
+}
+
+.menu-page{
+	background: url('../images/cookie2.jpg') no-repeat;
  background-position: center center;
  background-size: cover; 
  background-attachment: fixed;
