@@ -1,6 +1,7 @@
 
 .menu-panels {
 	height:150px;
+	background: none;
 }
 
 #copyright {
@@ -49,7 +50,7 @@ h1 {
 }
 
 .text-background {
-	background: white;
+	
 	background: rgba(255,255,255,.7);
 
 	padding: 10px 10px;;
@@ -70,6 +71,14 @@ a{
 
 }
 
+.panel-background{
+	background: rgba(255,255,255,.7);
+
+}
+
+.center{
+	text-align: center;
+}
 
 
 
