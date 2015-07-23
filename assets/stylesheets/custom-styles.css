@@ -21,9 +21,17 @@ h1 {
 	padding-right: 10px;
 }
 
+footer {
+	position: relative;
+}
+
 .front_pic {
 	width: 100%;
 	height: 100%
+}
+
+.panel .panel-body {
+	margin: 0;
 }
 
 .contact {
@@ -52,8 +60,8 @@ h1 {
 .text-background {
 	
 	background: rgba(255,255,255,.7);
-
-	padding: 10px 10px;;
+	padding: 10px 10px;
+	border-radius: 5px;
 }
 
 a{
